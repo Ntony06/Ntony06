@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonio Bressi</h1>
-<h3 align="center">A passionate frontend developer from Italia base in Swizz</h3>
+<h3 align="center">A passionate FrontEnd Web Developer from Italia base in Swizz</h3>
 <img align="left" alt="Coding" width="400px" src="https://nerdware.com.np/frontend/assets/images/page-titles/web.jpg">
 
 - 📫 How to reach me **bressi.antonio@outlook.com**
