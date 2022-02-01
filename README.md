@@ -21,12 +21,12 @@
  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/github-brand-logo-47401.png" alt="github" width="40" height="40"/> </a>
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.seekpng.com/png/detail/192-1923013_transparent-png-github-logo.png" alt="github" width="40" height="40"/> </a>
 </p>
 
-<p>
+//<p>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/78235836/151988936-c0be405c-d6b2-4393-8d97-c4570a2aa699.png" alt="Devico" width="40" height="40"/> </a>
-</p>
+</p>//
 
 <p>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntony06&show_icons=true&locale=en&layout=compact" alt="ntony06" />
