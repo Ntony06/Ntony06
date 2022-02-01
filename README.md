@@ -26,7 +26,7 @@
  <a href="https://lesscss.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/L/less-logo-AAE582C286-seeklogo.com.png" alt="sass" width="40" height="40"/> </a> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
- <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" alt="VSCODE" width="60" height="40"/> </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" alt="VSCODE" width="40" height="40"/> </a> 
  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.seekpng.com/png/detail/192-1923013_transparent-png-github-logo.png" alt="github" width="90" height="40"/> </a>
 </p>
 
