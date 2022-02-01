@@ -2,7 +2,8 @@
 <h3 align="center">A passionate FrontEnd Web Developer from Italia base in Swizz</h3>
 <img align="left" alt="Coding" width="400px" src="https://nerdware.com.np/frontend/assets/images/page-titles/web.jpg">
 
-- 📫 How to reach me **bressi.antonio@outlook.com**
+- 📫 How to reach me
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/High-contrast-mail-mark-unread.svg/768px-High-contrast-mail-mark-unread.svg.png" alt="bootstrap" width="40" height="40"/></a>        **bressi.antonio@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,12 +22,8 @@
  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.seekpng.com/png/detail/192-1923013_transparent-png-github-logo.png" alt="github" width="40" height="40"/> </a>
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.seekpng.com/png/detail/192-1923013_transparent-png-github-logo.png" alt="github" width="80" height="40"/> </a>
 </p>
-
-//<p>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/78235836/151988936-c0be405c-d6b2-4393-8d97-c4570a2aa699.png" alt="Devico" width="40" height="40"/> </a>
-</p>//
 
 <p>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ntony06&show_icons=true&locale=en&layout=compact" alt="ntony06" />
