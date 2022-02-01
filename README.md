@@ -3,7 +3,7 @@
 <img align="left" alt="Coding" width="400px" src="https://nerdware.com.np/frontend/assets/images/page-titles/web.jpg">
 
 - 📫 How to reach me
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/High-contrast-mail-mark-unread.svg/768px-High-contrast-mail-mark-unread.svg.png" alt="bootstrap" width="40" height="40"/></a>        **bressi.antonio@outlook.com**
+<a href = "mailto:bressi.antonio@outlook.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/High-contrast-mail-mark-unread.svg/768px-High-contrast-mail-mark-unread.svg.png" alt="Email" width="40" height="40"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,9 +20,11 @@
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+ <a href="https://lesscss.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/L/less-logo-AAE582C286-seeklogo.com.png" alt="sass" width="40" height="40"/> </a> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.seekpng.com/png/detail/192-1923013_transparent-png-github-logo.png" alt="github" width="80" height="40"/> </a>
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" alt="VSCODE" width="60" height="40"/> </a> 
+ <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.seekpng.com/png/detail/192-1923013_transparent-png-github-logo.png" alt="github" width="90" height="40"/> </a>
 </p>
 
 <p>
