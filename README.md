@@ -2,8 +2,11 @@
 <h3 align="center">A passionate FrontEnd Web Developer from Italia base in Swizz</h3>
 <img align="left" alt="Coding" width="400px" src="https://nerdware.com.np/frontend/assets/images/page-titles/web.jpg">
 
-- 📫 How to reach me
+
+<h3 align="left">- 📫 How to reach me:</h3>
+<p align="left">
 <a href = "mailto:bressi.antonio@outlook.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/High-contrast-mail-mark-unread.svg/768px-High-contrast-mail-mark-unread.svg.png" alt="Email" width="40" height="40"/></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
