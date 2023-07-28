@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antonio Bressi</h1>
 <h3 align="center">A passionate FrontEnd Web Developer from Italia base in Swizz</h3>
-<img align="left" alt="Coding" width="400px" src="https://i.pinimg.com/originals/d5/a8/d8/d5a8d865c9fc784aba1c506d4850a7bd.jpg">
+<img align="left" alt="Coding" width="400px" src="https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/08/what-is-a-web-developer.jpg">
 
 
 <h3 align="left">- 📫 How to reach me:</h3>
