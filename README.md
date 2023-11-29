@@ -31,7 +31,7 @@
  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.seekpng.com/png/detail/192-1923013_transparent-png-github-logo.png" alt="github" width="90" height="40"/> </a>
 </p>
 
-<p><script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="Ntony06" data-color="#5F7FFF" data-emoji=""  data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script></p>
+<a href="https://www.buymeacoffee.com/Ntony06"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Ntony06&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 
 <p>
